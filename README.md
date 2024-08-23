@@ -14,7 +14,7 @@ The PyTorch implementation code of the paper, [An Improved Sample Selection Fram
 **Abstract**
 Deep neural networks have powerful memory capabilities, yet they frequently suffer from overfitting to noisy labels, leading to a decline in classification and generalization performance. To address this issue, sample selection methods that filter out potentially clean labels have been proposed. However, there is a significant gap in size between the filtered, possibly clean subset and the unlabeled subset, which becomes particularly pronounced at high-noise rates. Consequently, this results in underutilizing label-free samples in sample selection methods, leaving room for performance improvement. This study introduces an enhanced sample selection framework with an oversampling strategy (SOS) to overcome this limitation. This framework leverages the valuable information contained in label-free instances to enhance model performance by combining an SOS with state-of-the-art sample selection methods. We validate the effectiveness of SOS through extensive experiments conducted on both synthetic noisy datasets and real-world datasets such as CIFAR, WebVision, and Clothing1M. The source code for SOS will be made available at https://github.com/LanXiaoPang613/SOS.
 
-![SOS Framework](./framework.tiff)
+![SOS Framework](./framework.tif)
 
 [//]: # (<img src="./framework.tiff" alt="SOS Framework" style="margin-left: 10px; margin-right: 50px;"/>)
 
