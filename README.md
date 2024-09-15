@@ -2,7 +2,7 @@
 
 <h5 align="center">
 
-*Qian Zhang, Yi Zhu, Ming Yang, Ge Jin, Yingwen Zhu, Yanjun Lu, Yu Zou1, Qiu Chen*
+*Qian Zhang, Yi Zhu, Ming Yang, Ge Jin, Yingwen Zhu, Yanjun Lu, Yu Zou, Qiu Chen*
 
 [[PLOS ONE]](https://doi.org/10.1371/journal.pone.0309841)
 [[License: MIT License]](https://github.com/LanXiaoPang613/SOS/blob/main/LICENSE)
